@@ -6,8 +6,8 @@ body {
 
 .container {
     background-color: white;
-    width: 750px;
-margin-bottom: 20px;
+    width: 700px;
+    margin-bottom: 20px;
 
 }
 
@@ -132,4 +132,3 @@ footer {
     background-color: #252424;
     color: white;
 }
-
